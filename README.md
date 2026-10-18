@@ -11,6 +11,8 @@ mobil_uygulama/   NovaStore Mini Katalog     Flutter
 
 backend ve web aynı senaryo: takımın görevleri. SQL ve mobil aynı mağaza: NovaStore.
 
+Web'in Netlify yayını ayrı depoda: [TNC_Netfily](https://github.com/y-gokay/TNC_Netfily). Netlify bu deponun kökünde `package.json` arıyor. TeamTask Web `web_geliştirme` altında olduğu için kökten build alamıyor. Aynı uygulama orada kökte duruyor.
+
 Nasıl açılır, ne var, her klasörün kendi README'sinde. Ekran görüntüleri her projenin `docs/docs_assets` klasöründe. Postman, web ekranları ve emülatör orada.
 
 ```bash

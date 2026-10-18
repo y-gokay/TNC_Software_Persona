@@ -59,18 +59,17 @@ Yeni görev ekleyince listede duruyor:
 
 ## Netlify
 
-```bash
-npm run build
-```
+Repo'da dört proje var. Netlify kökte `package.json` arıyor, `web_geliştirme` altındakini görmüyor. Onun için `netlify` branch'inde uygulama kökte.
 
 Site settings:
 
 ```text
-build command     npm run build
-publish directory dist
+branch              netlify
+build command       npm run build
+publish directory   dist
 ```
 
-Ya da bu klasörü Netlify'a sürükle, `netlify.toml` zaten var.
+`netlify.toml` duruyor. Branch'i remote'a atınca Netlify oradan build alır.
 
 ## Takılınca
 

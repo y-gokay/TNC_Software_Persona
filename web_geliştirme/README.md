@@ -28,6 +28,8 @@ npm run build
 
 Çıktı `dist`. Netlify yayın klasörü de o. `netlify.toml` duruyor.
 
+Netlify bu monorepo'nun kökünden build alamaz. Yayın branch'i `netlify`: orada bu proje kökte.
+
 ## Ne var
 
 ```text

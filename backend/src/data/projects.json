@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "TeamTask Web",
+    "description": "Takım görev yönetim web uygulaması v2",
+    "createdAt": "2026-10-01",
+    "updatedAt": "2026-10-18"
+  },
+  {
+    "id": 2,
+    "name": "TeamTask Mobil",
+    "description": "Mobil uygulama",
+    "createdAt": "2026-10-10",
+    "updatedAt": "2026-10-10"
+  }
+]

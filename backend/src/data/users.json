@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Gökay",
+    "email": "gokay@teamtask.com",
+    "role": "developer",
+    "createdAt": "2026-10-01",
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": 2,
+    "name": "Ayşe",
+    "email": "ayse@teamtask.com",
+    "role": "developer",
+    "createdAt": "2026-10-01",
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": 3,
+    "name": "Mehmet",
+    "email": "mehmet@teamtask.com",
+    "role": "designer",
+    "createdAt": "2026-10-01",
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": 4,
+    "name": "Zeynep",
+    "email": "zeynep@teamtask.com",
+    "role": "developer",
+    "createdAt": "2026-10-18",
+    "updatedAt": "2026-10-18"
+  }
+]

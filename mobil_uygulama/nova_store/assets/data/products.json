@@ -1,0 +1,187 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": 1,
+      "name": "iPhone 15 Pro",
+      "tagline": "Titanium. So strong. So light. So Pro.",
+      "description": "Aerospace-grade titanium, A17 Pro chip, 48MP kamera.",
+      "price": "$999",
+      "category": "Telefon",
+      "image": "assets/images/iphone.png",
+      "specs": {
+        "chip": "A17 Pro",
+        "material": "Titanium",
+        "camera": "48MP Main"
+      }
+    },
+    {
+      "id": 2,
+      "name": "iPhone 15",
+      "tagline": "New camera. New design. Newphoria.",
+      "description": "Dynamic Island, USB-C, A16 Bionic.",
+      "price": "$799",
+      "category": "Telefon",
+      "image": "assets/images/iphone_pink.png",
+      "specs": {
+        "chip": "A16 Bionic",
+        "material": "Aluminum",
+        "camera": "48MP Main"
+      }
+    },
+    {
+      "id": 6,
+      "name": "MacBook Pro 16\"",
+      "tagline": "Mind-blowing. Head-turning.",
+      "description": "M3 Max, Liquid Retina XDR, uzun pil.",
+      "price": "$2499",
+      "category": "Bilgisayar",
+      "image": "assets/images/macbook.png",
+      "specs": {
+        "chip": "M3 Max",
+        "display": "Liquid Retina XDR",
+        "battery": "22 hrs"
+      }
+    },
+    {
+      "id": 8,
+      "name": "MacBook Air 15\"",
+      "tagline": "Impressively big.",
+      "description": "M2, ince kasa, sessiz calisir.",
+      "price": "$1299",
+      "category": "Bilgisayar",
+      "image": "assets/images/macbook_air.png",
+      "specs": {
+        "chip": "M2",
+        "weight": "3.3 lbs",
+        "design": "Fanless"
+      }
+    },
+    {
+      "id": 10,
+      "name": "iMac",
+      "tagline": "Packed with power.",
+      "description": "24 inç 4.5K Retina, M3.",
+      "price": "$1299",
+      "category": "Bilgisayar",
+      "image": "assets/images/imac.png",
+      "specs": {
+        "chip": "M3",
+        "display": "24\" 4.5K Retina",
+        "colors": "7 colors"
+      }
+    },
+    {
+      "id": 11,
+      "name": "iPad Pro 12.9\"",
+      "tagline": "Supercharged by M2.",
+      "description": "XDR ekran, Apple Pencil hover.",
+      "price": "$1099",
+      "category": "Tablet",
+      "image": "assets/images/ipad.png",
+      "specs": {
+        "chip": "M2",
+        "screen": "XDR",
+        "pencil": "Hover"
+      }
+    },
+    {
+      "id": 12,
+      "name": "iPad Air",
+      "tagline": "Light. Bright. Full of might.",
+      "description": "10.9 inç Liquid Retina, Touch ID.",
+      "price": "$599",
+      "category": "Tablet",
+      "image": "assets/images/ipad_air.png",
+      "specs": {
+        "chip": "M1",
+        "display": "10.9\"",
+        "connectivity": "5G"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Apple Watch Ultra 2",
+      "tagline": "Next level.",
+      "description": "Titanyum kasa, 3000 nit, cift frekans GPS.",
+      "price": "$799",
+      "category": "Saat",
+      "image": "assets/images/watch.png",
+      "specs": {
+        "case": "Titanium",
+        "brightness": "3000 nits",
+        "gps": "Dual-frequency"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Apple Watch Series 9",
+      "tagline": "Smarter. Brighter. Mightier.",
+      "description": "S9 SiP, double tap, daha parlak ekran.",
+      "price": "$399",
+      "category": "Saat",
+      "image": "assets/images/watch_series9.png",
+      "specs": {
+        "chip": "S9 SiP",
+        "feature": "Double tap",
+        "carbon": "Neutral option"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Apple Vision Pro",
+      "tagline": "Welcome to spatial computing.",
+      "description": "Goz, el ve sesle kontrol. Spatial computing.",
+      "price": "$3499",
+      "category": "AR",
+      "image": "assets/images/vision_pro.png",
+      "specs": {
+        "os": "visionOS",
+        "display": "Micro-OLED",
+        "control": "Eyes, hands, voice"
+      }
+    },
+    {
+      "id": 17,
+      "name": "AirPods Pro (2nd Gen)",
+      "tagline": "Adaptive Audio.",
+      "description": "H2 chip, Adaptive Audio, USB-C kutu.",
+      "price": "$249",
+      "category": "Ses",
+      "image": "assets/images/airpods.png",
+      "specs": {
+        "chip": "H2",
+        "audio": "Spatial Audio",
+        "case": "USB-C"
+      }
+    },
+    {
+      "id": 19,
+      "name": "HomePod",
+      "tagline": "Profound sound.",
+      "description": "Odaya gore ayarlanan ses, smart home hub.",
+      "price": "$299",
+      "category": "Ev",
+      "image": "assets/images/homepod.png",
+      "specs": {
+        "audio": "Computational",
+        "home": "Smart Hub",
+        "sensing": "Room sensing"
+      }
+    },
+    {
+      "id": 20,
+      "name": "HomePod Mini",
+      "tagline": "Color-pop.",
+      "description": "Kucuk kasa, 360 derece ses.",
+      "price": "$99",
+      "category": "Ev",
+      "image": "assets/images/homepod_mini.png",
+      "specs": {
+        "size": "3.3 inches",
+        "audio": "360-degree",
+        "colors": "5 colors"
+      }
+    }
+  ]
+}
